@@ -11,7 +11,9 @@ public class JsonEntity {
 	
 	
 
-	//Static initializer block
+	/**
+	*This method is used for craeting the JSON object response
+	*/
 	public JsonObjectBuilder getAllJsonResponse() {
 		
 		  JsonArrayBuilder arrayBuilder;
